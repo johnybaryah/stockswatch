@@ -1,0 +1,2 @@
+# stockswatch
+angular project (learning)
